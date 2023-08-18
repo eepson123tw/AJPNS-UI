@@ -8,7 +8,7 @@ A test framework about th vvue workshop.And Team building with another.
 to generate a good look UI.
 
 ## Feature
-1.svg previewer:
+1.`SVG previewer`:
   to view your jpg upload and see what image it is.
 ![svg](https://github.com/eepson123tw/AJPNS-UI/assets/75103330/0e64ef0c-7789-46e3-b2f9-c7f901e7956e)
 
