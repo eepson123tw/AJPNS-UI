@@ -2,7 +2,7 @@
 A UI FameWork for the workshop
 
 ## Description
-A test framework about th vvue workshop.And Team building with another.
+A test framework about th vue workshop.And Team building with another.
 
 ## What for
 to generate a good look UI.
