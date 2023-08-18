@@ -9,6 +9,7 @@ const add = () => {
 </script>
 
 <template>
+  <h2>123123</h2>
   <button type="button" @click="add">count is {{ count }}</button>
 </template>
 
