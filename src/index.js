@@ -1,1 +1,1 @@
-export { default as HelloWord } from "./components/HelloWorld.vue";
+export { default as SvgPreview } from "./components/SvgPreview.vue";
